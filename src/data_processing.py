@@ -131,3 +131,5 @@ def process_data(file_path, snapshot_date='2025-07-01', output_path='data/proces
 if __name__ == "__main__":
     input_file = "data/raw/data.csv"
     process_data(input_file)
+
+## task 4 included
