@@ -1,0 +1,30 @@
+{
+  "inputs": {
+    "TransactionId": "TransactionId_76871",
+    "BatchId": "BatchId_36123",
+    "AccountId": "AccountId_3957",
+    "SubscriptionId": "SubscriptionId_887",
+    "CustomerId": "CustomerId_4406",
+    "CurrencyCode": "UGX",
+    "CountryCode": 256,
+    "ProviderId": "ProviderId_6",
+    "ProductId": "ProductId_10",
+    "ProductCategory": "airtime",
+    "ChannelId": "ChannelId_3",
+    "Amount": 1000.0,
+    "Value": 1000,
+    "TransactionStartTime": "2018-11-15T02:18:49",
+    "PricingStrategy": 2,
+    "FraudResult": 0,
+    "TransactionHour": 2,
+    "TransactionDay": 15,
+    "TransactionMonth": 11,
+    "TransactionYear": 2018,
+    "TotalAmount": 109921.75,
+    "AvgAmount": 923.7121848739496,
+    "TransactionCount": 119,
+    "StdAmount": 3042.2942512284867,
+    "FirstTransaction": "2018-11-15T02:18:49",
+    "LastTransaction": "2019-02-12T10:24:40"
+  }
+}

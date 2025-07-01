@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/zyona/OneDrive/Desktop/New_folder/Kifiya/Week5/github/Credit-Risk-Model-Week5/mlruns/0/3c442ae76d274aeeb63e62516f59bfc1/artifacts
+end_time: 1751388886637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c442ae76d274aeeb63e62516f59bfc1
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751388872845
+status: 3
+tags: []
+user_id: zyona
