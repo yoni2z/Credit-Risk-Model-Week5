@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/zyona/OneDrive/Desktop/New_folder/Kifiya/Week5/github/Credit-Risk-Model-Week5/mlruns/0/models/m-aacae9f7f56341bb85618accabc39be1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-aacae9f7f56341bb85618accabc39be1
+model_size_bytes: 30943408
+model_uuid: m-aacae9f7f56341bb85618accabc39be1
+prompts: null
+run_id: 89c223d3c6f3412eb185ce850f1a1994
+utc_time_created: '2025-07-01 13:09:59.164753'
