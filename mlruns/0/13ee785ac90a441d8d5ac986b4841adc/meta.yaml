@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/zyona/OneDrive/Desktop/New_folder/Kifiya/Week5/github/Credit-Risk-Model-Week5/mlruns/0/13ee785ac90a441d8d5ac986b4841adc/artifacts
+end_time: 1751404192065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ee785ac90a441d8d5ac986b4841adc
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751404176230
+status: 3
+tags: []
+user_id: zyona

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/zyona/OneDrive/Desktop/New_folder/Kifiya/Week5/github/Credit-Risk-Model-Week5/mlruns/0/models/m-fbb6e6b2a30b4765a7a958fcbec09480/artifacts
+creation_timestamp: 1751396169752
+experiment_id: '0'
+last_updated_timestamp: 1751396176308
+model_id: m-fbb6e6b2a30b4765a7a958fcbec09480
+model_type: null
+name: RandomForest
+source_run_id: 4de556fc8c254c75aba3a34d72e1a749
+status: 2
+status_message: null
